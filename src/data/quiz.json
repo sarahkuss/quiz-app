@@ -1,0 +1,77 @@
+[
+  {
+    "id": "1",
+    "question": "2 + 2 = ",
+    "options": [
+      {"answer": "It will be 6",
+      "isCorrect": false},
+      {"answer": "It could be 3",
+      "isCorrect": false},
+      {"answer": "Maybe 1",
+      "isCorrect": false},
+      {"answer": "Fo Sho 4",
+      "isCorrect": true}
+    ]
+  },
+
+  {
+    "id": "2",
+    "question": "What is the capital of New York?",
+    "options": [
+      {"answer": "Buffalo",
+      "isCorrect": false},
+      {"answer": "NYC",
+      "isCorrect": false},
+      {"answer": "Albany",
+      "isCorrect": true},
+      {"answer": "Rochester",
+      "isCorrect": false}
+    ]
+  },
+
+  {
+    "id": "3",
+    "question": "Who is the best Chimpanzee?",
+    "options": [
+      {"answer": "Irene",
+      "isCorrect": true },
+      {"answer": "Bamboo",
+      "isCorrect": true},
+      {"answer": "Higgy",
+      "isCorrect": false},
+      {"answer": "Dandy",
+      "isCorrect": false}
+    ]
+  },
+
+  {
+    "id": "4",
+    "question": "Who is the best Golden Girl?",
+    "options": [
+      {"answer": "Rose",
+      "isCorrect": false},
+      {"answer": "Dorothy",
+      "isCorrect": false},
+      {"answer": "Blanche",
+      "isCorrect": false},
+      {"answer": "All of them",
+      "isCorrect": true}
+    ]
+  }, 
+
+  {
+    "id": "5",
+    "question": "What is the slowest animal?",
+    "options": [
+      {"answer": "Sloth",
+      "isCorrect": true},
+      {"answer": "Giant Tortoise",
+      "isCorrect": false},
+      {"answer": "Koala",
+      "isCorrect": false},
+      {"answer": "Snail",
+      "isCorrect": false}
+
+    ]
+  }
+]
