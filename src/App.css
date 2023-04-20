@@ -55,3 +55,8 @@ h2 {
 footer {
   text-align: center;
 }
+
+footer a {
+  color: white;
+  font-size: 30px;
+}
